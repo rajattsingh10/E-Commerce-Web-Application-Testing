@@ -52,4 +52,4 @@ Screenshots of test execution are available in the `Screenshots` folder, includi
 
 ---
 
-### ✅ Status: COMPLETED ✅
+### Status: COMPLETED
